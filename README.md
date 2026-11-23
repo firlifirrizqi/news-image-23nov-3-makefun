@@ -1,8 +1,10 @@
 # The Daily World — 23 November 2026 (third entry)
 
-[![make.fun bounty: news-image-20261123](https://img.shields.io/badge/make.fun-news--image--20261123-blue)](https://make.fun/bounty/news-image-20261123)
-[![repo: firlifirrizqi/news-image-23nov-3-makefun](https://img.shields.io/badge/repo-firlifirrizqi%2Fnews--image--23nov--3--makefun-green)](https://github.com/firlifirrizqi/news-image-23nov-3-makefun)
-[![referral: v8vnayfm](https://img.shields.io/badge/referral-v8vnayfm-orange)](https://make.fun?ref=v8vnayfm)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/firlifirrizqi/news-image-23nov-3-makefun/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/firlifirrizqi/news-image-23nov-3-makefun/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+Referral code: v8vnayfm — https://make.fun?ref=v8vnayfm
 
 One newspaper front page that sums up **Monday 23 November 2026** in six
 stories, drawn entirely in code as a single 1024×1024 PNG. Third entry for
